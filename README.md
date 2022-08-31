@@ -12,6 +12,7 @@ or
 
 ### Creating a provider
 
+
 ```js
 const { createInfuraProvider } = require('@metamask/eth-json-rpc-infura');
 const EthQuery = require('eth-query');
